@@ -24,3 +24,5 @@ Amazon price prediction dataset [Download Here](https://www.kaggle.com/datasets/
 - Dashboards can be used by decision-makers to monitor and adjust pricing in real time
 
 ## PowerBI Screenshots
+![pricing optimization](https://github.com/user-attachments/assets/de296f13-495d-4631-8ba6-e601d95a3082)
+
